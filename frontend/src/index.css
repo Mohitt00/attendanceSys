@@ -3,4 +3,19 @@
 /* body{
   background-color: rgb(10, 5, 5);
   color: white;
+  text-shadow: 1px 1px 4px rgb(38, 127, 121);
+ 
 } */
+
+/* #mainBg{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+  url("./assets/p3.png") no-repeat center/cover;
+  
+} */
+
+#farmer input{
+   border: 1px solid black;
+   border-radius: 3px;
+   padding: 2px;
+   width: 60%;
+}
